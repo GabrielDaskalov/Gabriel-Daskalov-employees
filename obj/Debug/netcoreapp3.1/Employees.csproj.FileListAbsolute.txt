@@ -1,0 +1,12 @@
+C:\Users\gabri\OneDrive\Desktop\OOP Projects\Employees\bin\Debug\netcoreapp3.1\Employees.exe
+C:\Users\gabri\OneDrive\Desktop\OOP Projects\Employees\bin\Debug\netcoreapp3.1\Employees.deps.json
+C:\Users\gabri\OneDrive\Desktop\OOP Projects\Employees\bin\Debug\netcoreapp3.1\Employees.runtimeconfig.json
+C:\Users\gabri\OneDrive\Desktop\OOP Projects\Employees\bin\Debug\netcoreapp3.1\Employees.runtimeconfig.dev.json
+C:\Users\gabri\OneDrive\Desktop\OOP Projects\Employees\bin\Debug\netcoreapp3.1\Employees.dll
+C:\Users\gabri\OneDrive\Desktop\OOP Projects\Employees\bin\Debug\netcoreapp3.1\Employees.pdb
+C:\Users\gabri\OneDrive\Desktop\OOP Projects\Employees\obj\Debug\netcoreapp3.1\Employees.csprojAssemblyReference.cache
+C:\Users\gabri\OneDrive\Desktop\OOP Projects\Employees\obj\Debug\netcoreapp3.1\Employees.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Desktop\OOP Projects\Employees\obj\Debug\netcoreapp3.1\Employees.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Desktop\OOP Projects\Employees\obj\Debug\netcoreapp3.1\Employees.dll
+C:\Users\gabri\OneDrive\Desktop\OOP Projects\Employees\obj\Debug\netcoreapp3.1\Employees.pdb
+C:\Users\gabri\OneDrive\Desktop\OOP Projects\Employees\obj\Debug\netcoreapp3.1\Employees.genruntimeconfig.cache
